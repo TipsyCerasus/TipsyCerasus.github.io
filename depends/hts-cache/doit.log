@@ -1,0 +1,8 @@
+-qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "zh, en, *" https://zuiying6.webnode.tw/ https://zuiying6.webnode.tw/%e9%97%9c%e6%96%bc/ https://zuiying6.webnode.tw/%e6%97%85%e8%a1%8c/ https://zuiying6.webnode.tw/%e7%9b%b8%e7%b0%bf/ https://zuiying6.webnode.tw/%e8%81%af%e7%b5%a1/ -O1 "F:\My_newWeb\zuiying6" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+File generated automatically on Tue, 24 Aug 2021 23:31:15, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
